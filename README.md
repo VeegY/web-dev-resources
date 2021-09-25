@@ -12,9 +12,11 @@ Happy learning!
 ### HTML / CSS / Javascript
 HTML and CSS:
 * [learn.shayhowe.com](https://learn.shayhowe.com/) - Very good step by step tutorial and explenation 
+
 HTML
 * [selfhtml](https://wiki.selfhtml.org/wiki/HTML/Tutorials/Einstieg) - Beginner friendly html tutorial. Might only be available in german
 * [html-elements](https://wiki.selfhtml.org/wiki/HTML/Elemente) - List of all current html elements for easier referencing
+
 CSS
 * [selfhtml](https://wiki.selfhtml.org/wiki/CSS/Tutorials/Einstieg) - Beginner friendly html tutorial. Might only be available in german
 * [CSS Diner](https://flukeout.github.io/) - Learning CSS-selectors with CSS Diner
